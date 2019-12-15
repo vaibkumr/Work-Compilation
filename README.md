@@ -14,7 +14,7 @@ All of these are my hobby projects regarding various things I've done.
 - [Deep Learning Otae Detector](https://github.com/TimeTraveller-San/deep_learning_otae_detector) - An end-to-end system to detect anime character in images using Deep learning. With an easy to use, self made web API and frontend.
 
 ### Reinforcement Learning
-- [RL From scratch]([https://github.com/TimeTraveller-San/RL_from_scratch) - This is where I write RL related stuff from scratch in python like QLearning, SARSA, TD-lambda etc.
+- [RL From scratch](https://github.com/TimeTraveller-San/RL_from_scratch) - This is where I write RL related stuff from scratch in python like QLearning, SARSA, TD-lambda etc.
 - [DQN-Atari](https://github.com/TimeTraveller-San/DQN-Atari) - DQN based agent for Atari games because what's the point of doing RL if you don't try to play atari with it.
 - [Food waste prevention using RL](https://github.com/TimeTraveller-San/FoodWastePrevention-RL) - Multi-Agent RL for dynamic pricing of food to save wastage while maximizing profit.
 - [RLCaR](https://github.com/TimeTraveller-San/RLCaR) - Reinforcement Learning based Cache Replacement
