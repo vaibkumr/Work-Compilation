@@ -22,7 +22,7 @@ All of these are my hobby projects regarding various things I've done.
 ## Utility Software
 - [yTermPlayer](https://github.com/TimeTraveller-San/yTermPlayer) - Stream youtube playlists as audio on linux terminal. More than 10k downloads from pypi.
 - [DTUResults](https://dturesult.com/) - An online portal to compute result analytics with visual data for students of Delhi Technological University.
-- [Dataset scraper]([https://github.com/TimeTraveller-San/DatasetScraper](https://github.com/TimeTraveller-San/DatasetScraper)) - Tool to create image datasets for machine learning problems by scraping search engines like Google, Bing and Baidu. 
+- [Dataset scraper](https://github.com/TimeTraveller-San/DatasetScraper) - Tool to create image datasets for machine learning problems by scraping search engines like Google, Bing and Baidu. 
 
 ## Web Development
 - [Personal website](https://github.com/TimeTraveller-San/Web-Console) - A simple console-based personal website (not updated).
