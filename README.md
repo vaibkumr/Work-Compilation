@@ -7,6 +7,7 @@ All of these are my hobby projects regarding various things I've done.
 - [DQN-Atari](https://github.com/TimeTraveller-San/DQN-Atari) - DQN based agent for Atari games because what's the point of doing RL if you don't try to play atari with it.
 - [Food waste prevention using RL](https://github.com/TimeTraveller-San/FoodWastePrevention-RL) - Multi-Agent RL for dynamic pricing of food to save wastage while maximizing profit.
 - [RLCaR](https://github.com/TimeTraveller-San/RLCaR) - Reinforcement Learning based Cache Replacement
+- NOTE TO SELF: Compile a repo of all custom gym environments, make a repo and link it here.
 
 ### Vision
 - [Image Segmentation Test Bench](https://github.com/TimeTraveller-San/Image_Segmentation) - A collection of various models, archtectures and augmentations for Image Segmentation
