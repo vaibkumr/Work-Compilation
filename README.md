@@ -15,6 +15,7 @@ All of these are my hobby projects regarding various things I've done.
 - [Deep Learning Otae Detector](https://github.com/TimeTraveller-San/deep_learning_otae_detector) - An end-to-end system to detect anime character in images using Deep learning. With an easy to use, self made web API and frontend.
 
 ### Misc
+- [FairGAN](https://github.com/TimeTraveller-San/FairGAN) - GANs based approach to mitigate gender bias in word embeddings.
 - [Gradient Descent Optimization](https://github.com/TimeTraveller-San/GradientDescent_Optimization) - GD optimization techniques like Adam and SGD from scratch.
 - [Statistics for Machine Learning](https://github.com/TimeTraveller-San/stats-for-ml) - This repository is my record of simple experimentations on things related to stats, probability and similar interesting stuff that is needed for machine learning (and participating on kaggle).
 - [PROLOG Sample code](https://github.com/TimeTraveller-San/IAmNotGay) - Very basis PROLOG code to prove sexuality of a person using simple logic based rules.
