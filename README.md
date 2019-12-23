@@ -6,7 +6,7 @@ All of these are my hobby projects regarding various things I've done.
 - [RL From scratch](https://github.com/TimeTraveller-San/RL_from_scratch) - This is where I write RL related stuff from scratch in python like QLearning, SARSA, TD-lambda etc.
 - [DQN-Atari](https://github.com/TimeTraveller-San/DQN-Atari) - DQN based agent for Atari games because what's the point of doing RL if you don't try to play atari with it.
 - [Food waste prevention using RL](https://github.com/TimeTraveller-San/FoodWastePrevention-RL) - Multi-Agent RL for dynamic pricing of food to save wastage while maximizing profit.
-- [RLCaR](https://github.com/TimeTraveller-San/RLCaR) - Reinforcement Learning based Cache Replacement
+- [CacheReplacementEnv](https://github.com/TimeTraveller-San/CacheReplacementEnv) - Reinforcement Learning environment for Cache Replacement in operating systems.
 - NOTE TO SELF: Compile a repo of all custom gym environments, make a repo and link it here.
 
 ### Vision
