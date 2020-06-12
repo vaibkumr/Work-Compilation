@@ -1,6 +1,10 @@
 # Compilation of my work
 All of these are my hobby projects regarding various things I've done.
 
+## Research
+- [RAN-Debias](https://github.com/TimeTraveller-San/RAN-Debias) - Code for the TACL paper "Nurse is Closer to Woman than Surgeon? Mitigating Gender-Biased Proximities in Word Embeddings".
+
+
 ## Artificial Intelligence
 ### Reinforcement Learning
 - [RL From scratch](https://github.com/TimeTraveller-San/RL_from_scratch) - This is where I write RL related stuff from scratch in python like QLearning, SARSA, TD-lambda etc.
