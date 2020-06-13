@@ -1,5 +1,5 @@
 # Compilation of my work
-All of these are my codehttps://github.com/TimeTraveller-San/RAN-Debias projects regarding various things I've done.
+A compilation of most of my significant work. 
 
 ## Research
 - [RAN-Debias](https://github.com/TimeTraveller-San/RAN-Debias) - Code for the TACL paper "Nurse is Closer to Woman than Surgeon? Mitigating Gender-Biased Proximities in Word Embeddings".
