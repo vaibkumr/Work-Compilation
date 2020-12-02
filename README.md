@@ -2,16 +2,20 @@
 A compilation of most of my significant work. 
 
 ## Research
-- [RAN-Debias](https://github.com/TimeTraveller-San/RAN-Debias) - Code for the TACL paper "Nurse is Closer to Woman than Surgeon? Mitigating Gender-Biased Proximities in Word Embeddings".
-
+- [RAN-Debias](https://github.com/TimeTraveller-San/RAN-Debias) - Code for the TACL paper "[Nurse is Closer to Woman than Surgeon? Mitigating Gender-Biased Proximities in Word Embeddings](https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00327)".
+- [Fair Embedding Engine](https://github.com/FEE-Fair-Embedding-Engine/FEE) - Code for paper "[Fair Embedding Engine: A Library for Analyzing and Mitigating Gender Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5/)". Published at Workshop for Natural Language Processing Open Source Software (NLP-OSS) @ EMNLP 2020.
 
 ## Artificial Intelligence
 ### Reinforcement Learning
 - [RL From scratch](https://github.com/TimeTraveller-San/RL_from_scratch) - This is where I write RL related stuff from scratch in python like QLearning, SARSA, TD-lambda etc.
 - [DQN-Atari](https://github.com/TimeTraveller-San/DQN-Atari) - DQN based agent for Atari games because what's the point of doing RL if you don't try to play atari with it.
 - [Food waste prevention using RL](https://github.com/TimeTraveller-San/FoodWastePrevention-RL) - Multi-Agent RL for dynamic pricing of food to save wastage while maximizing profit.
-- [CacheReplacementEnv](https://github.com/TimeTraveller-San/CacheReplacementEnv) - Reinforcement Learning environment for Cache Replacement in operating systems.
-- NOTE TO SELF: Compile a repo of all custom gym environments, make a repo and link it here.
+- [Cache Replacement RL Environment](https://github.com/TimeTraveller-San/CacheReplacementEnv) - Reinforcement Learning environment for Cache Replacement in operating systems.
+- [Job Scheduling RL Environment](https://github.com/TimeTraveller-San/JobSchedulingRLenv) - Reinforcement Learning environment for Job Scheduling in operating systems.
+
+### NLP
+- [BioNER](https://github.com/TimeTraveller-San/BioNER): Named Entity Recognition for Medical Named Entities. Models tested: LightGBM, CRF and Bi-LSTMs. 
+- [FairGAN](https://github.com/TimeTraveller-San/FairGAN) - GANs based approach to mitigate gender bias in word embeddings.
 
 ### Vision
 - [Image Segmentation Test Bench](https://github.com/TimeTraveller-San/Image_Segmentation) - A collection of various models, archtectures and augmentations for Image Segmentation
@@ -22,7 +26,6 @@ A compilation of most of my significant work.
 - [Time Series Deep Learning Kaggle](https://github.com/TimeTraveller-San/Time-Series-Deep-Learning-Kaggle) - Time Series Deep Learning models for M5 Accuracy Kaggle. 
 
 ### Misc
-- [FairGAN](https://github.com/TimeTraveller-San/FairGAN) - GANs based approach to mitigate gender bias in word embeddings.
 - [Gradient Descent Optimization](https://github.com/TimeTraveller-San/GradientDescent_Optimization) - GD optimization techniques like Adam and SGD from scratch.
 - [Statistics for Machine Learning](https://github.com/TimeTraveller-San/stats-for-ml) - This repository is my record of simple experimentations on things related to stats, probability and similar interesting stuff that is needed for machine learning (and participating on kaggle).
 - [PROLOG Sample code](https://github.com/TimeTraveller-San/IAmNotGay) - Very basis PROLOG code to prove sexuality of a person using simple logic based rules.
@@ -39,7 +42,7 @@ A compilation of most of my significant work.
 - [Whatsapp.moe](https://github.com/TimeTraveller-San/whatsapp.moe) - whatsapp.moe is a google chrome extensions and a mozilla firefox add-on to make whatsapp cute
 - [ML frontend template](https://github.com/TimeTraveller-San/ML-frontend-template) - A simple ML frontend template to receive ML features from an HTML form and pass it onto the flask API to fetch the result
 
-# Academic
+# Academic (Undergraduate)
 - [Bezier curve](https://github.com/TimeTraveller-San/bezier-curve) - Bezier curve animated implementation on python
 - [Turing machine simulator](https://github.com/TimeTraveller-San/Turing-machine-simulator) - Python implementation of a Turing machine simulator with visualization
 - [Data Encryption Standard](https://github.com/TimeTraveller-San/Data-Encryption-Standard) - Python implementation of Data Encryption Standard (DES) - Computer Networks
