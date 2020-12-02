@@ -28,7 +28,6 @@ A compilation of most of my significant work.
 ### Misc
 - [Gradient Descent Optimization](https://github.com/TimeTraveller-San/GradientDescent_Optimization) - GD optimization techniques like Adam and SGD from scratch.
 - [Statistics for Machine Learning](https://github.com/TimeTraveller-San/stats-for-ml) - This repository is my record of simple experimentations on things related to stats, probability and similar interesting stuff that is needed for machine learning (and participating on kaggle).
-- [PROLOG Sample code](https://github.com/TimeTraveller-San/IAmNotGay) - Very basis PROLOG code to prove sexuality of a person using simple logic based rules.
 - [Santander](https://github.com/TimeTraveller-San/Santander) - WARNING! - >> Scattered code << for my silver medal solution in  https://www.kaggle.com/c/santander-customer-transaction-prediction/
 
 ## Utility Software
