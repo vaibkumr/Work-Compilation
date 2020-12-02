@@ -2,8 +2,8 @@
 A compilation of most of my significant work. 
 
 ## Research
-- [RAN-Debias](https://github.com/TimeTraveller-San/RAN-Debias) - Code for the TACL paper "[Nurse is Closer to Woman than Surgeon? Mitigating Gender-Biased Proximities in Word Embeddings](https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00327)".
-- [Fair Embedding Engine](https://github.com/FEE-Fair-Embedding-Engine/FEE) - Code for paper "[Fair Embedding Engine: A Library for Analyzing and Mitigating Gender Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5/)". Published at Workshop for Natural Language Processing Open Source Software (NLP-OSS) @ EMNLP 2020.
+- [RAN-Debias](https://github.com/TimeTraveller-San/RAN-Debias) - Code for the TACL paper ["Nurse is Closer to Woman than Surgeon? Mitigating Gender-Biased Proximities in Word Embeddings"](https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00327).
+- [Fair Embedding Engine](https://github.com/FEE-Fair-Embedding-Engine/FEE) - Code for paper ["Fair Embedding Engine: A Library for Analyzing and Mitigating Gender Bias in Word Embeddings"](https://www.aclweb.org/anthology/2020.nlposs-1.5/). Published at Workshop for Natural Language Processing Open Source Software (NLP-OSS) @ EMNLP 2020.
 
 ## Artificial Intelligence
 ### Reinforcement Learning
