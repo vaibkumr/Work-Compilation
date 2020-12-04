@@ -28,12 +28,14 @@ A compilation of most of my significant work.
 ### Misc
 - [Gradient Descent Optimization](https://github.com/TimeTraveller-San/GradientDescent_Optimization) - GD optimization techniques like Adam and SGD from scratch.
 - [Statistics for Machine Learning](https://github.com/TimeTraveller-San/stats-for-ml) - This repository is my record of simple experimentations on things related to stats, probability and similar interesting stuff that is needed for machine learning (and participating on kaggle).
-- [Santander](https://github.com/TimeTraveller-San/Santander) - WARNING! - >> Scattered code << for my silver medal solution in  https://www.kaggle.com/c/santander-customer-transaction-prediction/
+- [Santander](https://github.com/TimeTraveller-San/Santander) - WARNING! - >> Scattered code << for my silver medal solution in the [Santander Customer Transaction Prediction]( https://www.kaggle.com/c/santander-customer-transaction-prediction/) competition.
+- [Real-Time Mapping of Epidemic Spreads](https://github.com/TimeTraveller-San/Epidemic-Spread-SIH) - Temporal and Spatial analysis for mapping and predicting an epidemic spread. 
 
 ## Utility Software
 - [yTermPlayer](https://github.com/TimeTraveller-San/yTermPlayer) - Stream youtube playlists as audio on linux terminal. More than 10k downloads from pypi.
 - [DTUResults](https://dturesult.com/) - An online portal to compute result analytics with visual data for students of Delhi Technological University.
 - [Dataset scraper](https://github.com/TimeTraveller-San/DatasetScraper) - Tool to create image datasets for machine learning problems by scraping search engines like Google, Bing and Baidu. 
+
 
 ## Web Development
 - [Personal website](https://github.com/TimeTraveller-San/Web-Console) - A simple console-based personal website (not updated).
