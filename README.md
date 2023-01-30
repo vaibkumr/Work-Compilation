@@ -6,6 +6,13 @@ A compilation of most of my significant work.
 - [RAN-Debias](https://github.com/TimeTraveller-San/RAN-Debias) - Code for the paper ["Nurse is Closer to Woman than Surgeon? Mitigating Gender-Biased Proximities in Word Embeddings"](https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00327). Published in the Transactions of the Association for Computational Linguistics (TACL), Volume 8, 2020 p.486-503.
 - [Fair Embedding Engine](https://github.com/FEE-Fair-Embedding-Engine/FEE) - Code for paper ["Fair Embedding Engine: A Library for Analyzing and Mitigating Gender Bias in Word Embeddings"](https://www.aclweb.org/anthology/2020.nlposs-1.5/). Published at Workshop for Natural Language Processing Open Source Software (NLP-OSS) @ EMNLP 2020.
 
+## Teaching
+I have been a teaching assistant at UCLA for:
+- [PIC 16B UCLA Winter 2023](https://github.com/TimeTraveller-San/PIC-16B-TA-W23) Python with Application II with [Dr. Harlin Lee](https://www.math.ucla.edu/~harlin/)
+- [PIC 20A UCLA Winter 2023](https://github.com/TimeTraveller-San/PIC-20A-TA-1A-W23) Principles of Java Language with Applications with [Dr. Michael Andrews](https://www.math.ucla.edu/~mjandr/)
+- [PIC 20A UCLA Spring 2022](https://github.com/TimeTraveller-San/PIC-20A-TA-1B-S22) Principles of Java Language with Applications with [Dr. Minh Pham](https://www.math.ucla.edu/~minhrose/)
+- PIC 16B UCLA Winter 2022 with Python with Application I [Dr. Michael A. Perlmutter](https://sites.google.com/view/perlmutma/teaching-and-mentoring?authuser=0)
+
 ## Artificial Intelligence
 ### Reinforcement Learning
 - [RL From scratch](https://github.com/TimeTraveller-San/RL_from_scratch) - This is where I write RL related stuff from scratch in python like QLearning, SARSA, TD-lambda etc.
