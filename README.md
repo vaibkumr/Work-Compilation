@@ -2,6 +2,7 @@
 A compilation of most of my significant work. 
 
 ## Research
+- [Controlled Language Generation](https://2023.aclweb.org/) - Full paper on Plug-n-Play Controlled Language Generation submitted at ACL 2023. First Authored work at Amazon Alexa.
 - [Course research project for CS249](https://github.com/TimeTraveller-San/CS249-Graph-Neural-Networks) - Bayes Optimal Neural Network Pruning using Relational Graph Properties.  
 - [RAN-Debias](https://github.com/TimeTraveller-San/RAN-Debias) - Code for the paper ["Nurse is Closer to Woman than Surgeon? Mitigating Gender-Biased Proximities in Word Embeddings"](https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00327). Published in the Transactions of the Association for Computational Linguistics (TACL), Volume 8, 2020 p.486-503.
 - [Fair Embedding Engine](https://github.com/FEE-Fair-Embedding-Engine/FEE) - Code for paper ["Fair Embedding Engine: A Library for Analyzing and Mitigating Gender Bias in Word Embeddings"](https://www.aclweb.org/anthology/2020.nlposs-1.5/). Published at Workshop for Natural Language Processing Open Source Software (NLP-OSS) @ EMNLP 2020.
