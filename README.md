@@ -23,6 +23,7 @@ I have been a teaching assistant at UCLA for:
 - [Job Scheduling RL Environment](https://github.com/TimeTraveller-San/JobSchedulingRLenv) - Reinforcement Learning environment for Job Scheduling in operating systems.
 
 ### NLP
+- [YoutubeQNA](https://youtubeqna.com/): Enter a YouTube video URL (with subtitles) to generate relevant questions and answers/summary.
 - [BioNER](https://github.com/TimeTraveller-San/BioNER): Named Entity Recognition for Medical Named Entities. Models tested: LightGBM, CRF and Bi-LSTMs. 
 - [FairGAN](https://github.com/TimeTraveller-San/FairGAN) - GANs based approach to mitigate gender bias in word embeddings.
 
@@ -48,6 +49,7 @@ I have been a teaching assistant at UCLA for:
 
 
 ## Web Development
+- [YoutubeQNA](https://youtubeqna.com/): Enter a YouTube video URL (with subtitles) to generate relevant questions and answers/summary.
 - [Personal website](https://github.com/TimeTraveller-San/Web-Console) - A simple console-based personal website (not updated).
 - [Web-Console](https://github.com/TimeTraveller-San/Web-Console) - A simple Information Console for personal websites. Can be used for personal portfolio/resume websites. Live example: [https://timetraveller-san.github.io/](https://timetraveller-san.github.io/)
 - [Whatsapp.moe](https://github.com/TimeTraveller-San/whatsapp.moe) - whatsapp.moe is a google chrome extensions and a mozilla firefox add-on to make whatsapp cute
