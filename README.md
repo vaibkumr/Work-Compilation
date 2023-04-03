@@ -26,6 +26,8 @@ I have been a teaching assistant at UCLA for:
 - [YoutubeQNA](https://youtubeqna.com/): Enter a YouTube video URL (with subtitles) to generate relevant questions and answers/summary.
 - [BioNER](https://github.com/TimeTraveller-San/BioNER): Named Entity Recognition for Medical Named Entities. Models tested: LightGBM, CRF and Bi-LSTMs. 
 - [FairGAN](https://github.com/TimeTraveller-San/FairGAN) - GANs based approach to mitigate gender bias in word embeddings.
+- [RAN-Debias](https://github.com/TimeTraveller-San/RAN-Debias) - Code for the paper ["Nurse is Closer to Woman than Surgeon? Mitigating Gender-Biased Proximities in Word Embeddings"](https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00327). Published in the Transactions of the Association for Computational Linguistics (TACL), Volume 8, 2020 p.486-503.
+- [Fair Embedding Engine](https://github.com/FEE-Fair-Embedding-Engine/FEE) - Code for paper ["Fair Embedding Engine: A Library for Analyzing and Mitigating Gender Bias in Word Embeddings"](https://www.aclweb.org/anthology/2020.nlposs-1.5/). Published at Workshop for Natural Language Processing Open Source Software (NLP-OSS) @ EMNLP 2020.
 
 ### Vision
 - [Image Segmentation Test Bench](https://github.com/TimeTraveller-San/Image_Segmentation) - A collection of various models, archtectures and augmentations for Image Segmentation
