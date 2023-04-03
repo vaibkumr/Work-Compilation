@@ -57,7 +57,9 @@ I have been a teaching assistant at UCLA for:
 - [Whatsapp.moe](https://github.com/TimeTraveller-San/whatsapp.moe) - whatsapp.moe is a google chrome extensions and a mozilla firefox add-on to make whatsapp cute
 - [ML frontend template](https://github.com/TimeTraveller-San/ML-frontend-template) - A simple ML frontend template to receive ML features from an HTML form and pass it onto the flask API to fetch the result
 
-# Academic (Undergraduate)
+# Academic 
+- [Bayes Optimal Neural Network Pruning using Relational Graph Properties](https://github.com/TimeTraveller-San/CS249-Graph-Neural-Networks) - [Colab Demo](https://colab.research.google.com/drive/1fvqSHSYt41NxZ1jcPamPrhv-l0jFQ0ts?usp=sharing) | [Presentation Colab](https://github.com/yichousun/Spring2022_CS249_GNN/blob/main/Course_Project/Group15_NN_Pruning_via_Relational_Graph/Vector_Bayesian_Opimization.ipynb) | [Presentation Slides](https://docs.google.com/presentation/d/1gqfWB3UVYjL8rVKUo8p64ba-yEdD2MGkyxg_0BZdEXo/edit?usp=sharing)
+- [Mixed Curvature GloVe](https://github.com/ayu15031/nlp-mixCurvature-Glove) - 
 - [Bezier curve](https://github.com/TimeTraveller-San/bezier-curve) - Bezier curve animated implementation on python
 - [Turing machine simulator](https://github.com/TimeTraveller-San/Turing-machine-simulator) - Python implementation of a Turing machine simulator with visualization
 - [Data Encryption Standard](https://github.com/TimeTraveller-San/Data-Encryption-Standard) - Python implementation of Data Encryption Standard (DES) - Computer Networks
