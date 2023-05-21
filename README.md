@@ -44,6 +44,7 @@ I have been a teaching assistant at UCLA for:
 - [Real-Time Mapping of Epidemic Spreads](https://github.com/TimeTraveller-San/Epidemic-Spread-SIH) - Temporal and Spatial analysis for mapping and predicting an epidemic spread. 
 
 ## Utility Software
+- [PromptOptimizer](https://promptoptimizer.readthedocs.io/en/latest/): Minimize LLM token complexity to save API costs and model computations.
 - [yTermPlayer](https://github.com/TimeTraveller-San/yTermPlayer) - Stream youtube playlists as audio on linux terminal. More than 10k downloads from pypi.
 - [DTUResults](https://dturesult.com/) - An online portal to compute result analytics with visual data for students of Delhi Technological University.
 - [Dataset scraper](https://github.com/TimeTraveller-San/DatasetScraper) - Tool to create image datasets for machine learning problems by scraping search engines like Google, Bing and Baidu.
