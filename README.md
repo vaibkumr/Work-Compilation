@@ -15,12 +15,6 @@ I have been a teaching assistant at UCLA for:
 - PIC 16B UCLA Winter 2022 with Python with Application I [Dr. Michael A. Perlmutter](https://sites.google.com/view/perlmutma/teaching-and-mentoring?authuser=0)
 
 ## Artificial Intelligence
-### Reinforcement Learning
-- [RL From scratch](https://github.com/TimeTraveller-San/RL_from_scratch) - This is where I write RL related stuff from scratch in python like QLearning, SARSA, TD-lambda etc.
-- [DQN-Atari](https://github.com/TimeTraveller-San/DQN-Atari) - DQN based agent for Atari games because what's the point of doing RL if you don't try to play atari with it.
-- [Food waste prevention using RL](https://github.com/TimeTraveller-San/FoodWastePrevention-RL) - Multi-Agent RL for dynamic pricing of food to save wastage while maximizing profit.
-- [Cache Replacement RL Environment](https://github.com/TimeTraveller-San/CacheReplacementEnv) - Reinforcement Learning environment for Cache Replacement in operating systems.
-- [Job Scheduling RL Environment](https://github.com/TimeTraveller-San/JobSchedulingRLenv) - Reinforcement Learning environment for Job Scheduling in operating systems.
 
 ### NLP
 - [PromptOptimizer](https://promptoptimizer.readthedocs.io/en/latest/): Minimize LLM token complexity to save API costs and model computations.
@@ -30,7 +24,14 @@ I have been a teaching assistant at UCLA for:
 - [RAN-Debias](https://github.com/TimeTraveller-San/RAN-Debias) - Code for the paper ["Nurse is Closer to Woman than Surgeon? Mitigating Gender-Biased Proximities in Word Embeddings"](https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00327). Published in the Transactions of the Association for Computational Linguistics (TACL), Volume 8, 2020 p.486-503.
 - [Fair Embedding Engine](https://github.com/FEE-Fair-Embedding-Engine/FEE) - Code for paper ["Fair Embedding Engine: A Library for Analyzing and Mitigating Gender Bias in Word Embeddings"](https://www.aclweb.org/anthology/2020.nlposs-1.5/). Published at Workshop for Natural Language Processing Open Source Software (NLP-OSS) @ EMNLP 2020.
 
-### Vision
+### Reinforcement Learning
+- [RL From scratch](https://github.com/TimeTraveller-San/RL_from_scratch) - This is where I write RL related stuff from scratch in python like QLearning, SARSA, TD-lambda etc.
+- [DQN-Atari](https://github.com/TimeTraveller-San/DQN-Atari) - DQN based agent for Atari games because what's the point of doing RL if you don't try to play atari with it.
+- [Food waste prevention using RL](https://github.com/TimeTraveller-San/FoodWastePrevention-RL) - Multi-Agent RL for dynamic pricing of food to save wastage while maximizing profit.
+- [Cache Replacement RL Environment](https://github.com/TimeTraveller-San/CacheReplacementEnv) - Reinforcement Learning environment for Cache Replacement in operating systems.
+- [Job Scheduling RL Environment](https://github.com/TimeTraveller-San/JobSchedulingRLenv) - Reinforcement Learning environment for Job Scheduling in operating systems.
+
+### Computer Vision
 - [Image Segmentation Test Bench](https://github.com/TimeTraveller-San/Image_Segmentation) - A collection of various models, archtectures and augmentations for Image Segmentation
 - [Modular GANs](https://github.com/TimeTraveller-San/Modular-GANs) - A modular Test bench for my GAN related experiments. 
 - [Deep Learning Otae Detector](https://github.com/TimeTraveller-San/deep_learning_otae_detector) - An end-to-end system to detect anime character in images using Deep learning. With an easy to use, self made web API and frontend.
