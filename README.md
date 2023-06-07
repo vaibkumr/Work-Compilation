@@ -23,6 +23,7 @@ I have been a teaching assistant at UCLA for:
 - [FairGAN](https://github.com/TimeTraveller-San/FairGAN) - GANs based approach to mitigate gender bias in word embeddings.
 - [RAN-Debias](https://github.com/TimeTraveller-San/RAN-Debias) - Code for the paper ["Nurse is Closer to Woman than Surgeon? Mitigating Gender-Biased Proximities in Word Embeddings"](https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00327). Published in the Transactions of the Association for Computational Linguistics (TACL), Volume 8, 2020 p.486-503.
 - [Fair Embedding Engine](https://github.com/FEE-Fair-Embedding-Engine/FEE) - Code for paper ["Fair Embedding Engine: A Library for Analyzing and Mitigating Gender Bias in Word Embeddings"](https://www.aclweb.org/anthology/2020.nlposs-1.5/). Published at Workshop for Natural Language Processing Open Source Software (NLP-OSS) @ EMNLP 2020.
+- [Mixed Curvature GloVe](https://github.com/ayu15031/nlp-mixCurvature-Glove) - Implementation of Mixed Curvature GloVe (Eucledian, Hyperbolic and Spherical Space).
 
 ### Reinforcement Learning
 - [RL From scratch](https://github.com/TimeTraveller-San/RL_from_scratch) - This is where I write RL related stuff from scratch in python like QLearning, SARSA, TD-lambda etc.
@@ -62,7 +63,7 @@ I have been a teaching assistant at UCLA for:
 
 # Academic 
 - [Bayes Optimal Neural Network Pruning using Relational Graph Properties](https://github.com/TimeTraveller-San/CS249-Graph-Neural-Networks) - [Colab Demo](https://colab.research.google.com/drive/1fvqSHSYt41NxZ1jcPamPrhv-l0jFQ0ts?usp=sharing) | [Presentation Colab](https://github.com/yichousun/Spring2022_CS249_GNN/blob/main/Course_Project/Group15_NN_Pruning_via_Relational_Graph/Vector_Bayesian_Opimization.ipynb) | [Presentation Slides](https://docs.google.com/presentation/d/1gqfWB3UVYjL8rVKUo8p64ba-yEdD2MGkyxg_0BZdEXo/edit?usp=sharing)
-- [Mixed Curvature GloVe](https://github.com/ayu15031/nlp-mixCurvature-Glove) - 
+- [Mixed Curvature GloVe](https://github.com/ayu15031/nlp-mixCurvature-Glove) - Implementation of Mixed Curvature GloVe (Eucledian, Hyperbolic and Spherical Space).
 - [Bezier curve](https://github.com/TimeTraveller-San/bezier-curve) - Bezier curve animated implementation on python
 - [Turing machine simulator](https://github.com/TimeTraveller-San/Turing-machine-simulator) - Python implementation of a Turing machine simulator with visualization
 - [Data Encryption Standard](https://github.com/TimeTraveller-San/Data-Encryption-Standard) - Python implementation of Data Encryption Standard (DES) - Computer Networks
